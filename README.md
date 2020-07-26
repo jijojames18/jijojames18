@@ -4,13 +4,13 @@ Programmer | Amateur Photographer | Avid Blogger | Bike person
 
 
 ### Contributed Projects
-- Vue Filp Countdown
+- Vue Flip Countdown
   - A simple flip countdown timer component for Vue 2.x.  
     - Repository : [vue2-flip-countdown](https://github.com/philipjkim/vue2-flip-countdown)
 
 ### My Repositories  
 - jijojames.com
-  - Portfolio website. Created this using React as a one-stop site holding the photos that I have clicked, blogs that I have written and the travel videos that I shot. The website displays the images uploaded at 500px, blogs posted at blogger, and videos uploaded in Youtube using Iframes.
+  - Portfolio website. Created this using React as a one-stop site holding the photos that I have clicked, blogs that I have written, and the travel videos that I shot. The website displays the images uploaded at 500px, blogs posted at blogger, and videos uploaded on Youtube using Iframes.
   - Tech Stack
     - React
     - PHP
@@ -19,13 +19,13 @@ Programmer | Amateur Photographer | Avid Blogger | Bike person
   - Repository : [jijojames.com](https://github.com/jijojames18/jijojames.com)
   - [Live Demo](https://jijojames.com)
 - CRM Site Builder SQL
-  - The idea is to build a CRM like application which allows web designers to specify the pages and contents of a static website through an Admin website. The app will then provide all the configured details via REST API, allowing the developers to consume the data and create apps easily. All the updations for the website can be done through the Admin panel and the developers need not worry about creating an interface for end-users to update the contents of the page.
+  - The idea is to build a CRM like application that allows web designers to specify the pages and contents of a static website through an Admin website. The app will then provide all the configured details via REST API, allowing the developers to consume the data and create apps easily. All the updations for the website can be done through the Admin panel and the developers need not worry about creating an interface for end-users to update the contents of the page.
   - Tech stack
     - MySQL
     - Shell
   - Repository : [site-backend-mysql](https://github.com/jijojames18/site-backend-mysql)
 - Homework Valuator
-  - Created this application for my mother so that she could create online tests for her students during lockdown.
+  - Created this application for my mother so that she could create online tests for her students during the lockdown.
   - Tech stack
     - Vue
     - JavaScript

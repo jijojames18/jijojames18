@@ -1,16 +1,26 @@
-### Hi there 👋
+## Jijo James K  
 
-<!--
-**jijojames18/jijojames18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmer | Amateur Photographer | Avid Blogger | Bike person
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contributed Repositories
+- Vue Filp Countdown
+  - TBD
+
+#### My Repositories  
+- jijojames.com
+  - Portfolio website.
+- CRM Site Builder SQL
+  - TBD
+- Homework Valuator Front End
+  - TBD
+- Homework Valuator Back End
+  - TBD
+
+
+### See also
+- [Linkedin](https://in.linkedin.com/public-profile/in/jijojames18)  
+- [jijojames.com](https://jijojames.com)  
+- [pixeleefied](https://www.instagram.com/pixeleefied/)  
+- [Travel Blog](https://traveloguebyme.blogspot.com/)
+- [Youtube Channel](https://www.youtube.com/channel/UCio5ZAjlKr-ncg5owzIkn9Q)

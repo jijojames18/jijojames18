@@ -7,6 +7,9 @@ Programmer | Amateur Photographer | Avid Blogger | Bike person
 - Vue Flip Countdown
   - A simple flip countdown timer component for Vue 2.x.  
     - Repository : [vue2-flip-countdown](https://github.com/philipjkim/vue2-flip-countdown)
+- Vue Slider
+  - A customizable horizontal slide menu for VueJs 2+
+    - Repository : [vue-slider](https://github.com/jeremyhamm/vue-slider/)
 
 ### My Repositories  
 - jijojames.com
